@@ -22,7 +22,6 @@ export default function Home() {
       <FAQSection/>
       <SecondaryCTA/>
       <Footer/>
-      <p className="font-${inter.variable}">Hola mundo</p>
     </div>
   );
 }
